@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 new test
 
 dev branch
+
+Switched to a new branch 'issue-101
