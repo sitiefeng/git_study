@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 
 
 git_study dev
+
+git_study_clone modify
